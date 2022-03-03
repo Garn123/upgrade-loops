@@ -1,2 +1,2 @@
 # upgrade-loops
-# Javascript loops exercises
+Javascript loops exercises
